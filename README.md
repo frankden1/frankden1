@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there I'm Frank👋
 
-<!--
-**frankden1/frankden1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hands-on learner | Problem solver | Practical thinker
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Connect 
+-LinkedIn:
